@@ -1,0 +1,10 @@
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Folder UpPlusDown.exe.config
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Folder UpPlusDown.exe
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Folder UpPlusDown.pdb
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Folder UpPlusDown.csproj.AssemblyReference.cache
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Folder UpPlusDown.csproj.GenerateResource.cache
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Folder UpPlusDown.csproj.CoreCompileInputs.cache
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Folder UpPlusDown.exe
+C:\Users\Les\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\Folder UpPlusDown.pdb
